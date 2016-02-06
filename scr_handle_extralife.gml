@@ -7,7 +7,7 @@ var product=argument[1];
 var extra_data_1;
 var return_data="";
 // Get more data if provided
-if argument_count>1 {
+if argument_count>2 {
     extra_data_1=argument[2];
 }
 // =============
