@@ -10,9 +10,6 @@ var return_data="";
 if argument_count>1 {
     extra_data_1=argument[1];
 }
-if argument_count>1 {
-    extra_data_1=argument[1];
-}
 // =============
 
 switch (state)
